@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Vittoria Zhang 苏宁 # the website title (if blank, full name will be used instead)
-first_name: Vittoria (苏宁)
+title: Vittoria (Suning) Zhang 张苏宁 # the website title (if blank, full name will be used instead)
+first_name: Vittoria (Suning)
 middle_name:
-last_name: Zhang
+last_name: Zhang 张苏宁
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Vittoria Zhang's personal website / 苏宁的个人主页。
+  Vittoria (Suning) Zhang's personal website / 张苏宁的个人主页。
 footer_text: ""
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
