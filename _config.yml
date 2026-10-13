@@ -2,18 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personalpage # the website title (if blank, full name will be used instead)
+title: Vittoria Zhang 苏宁 # the website title (if blank, full name will be used instead)
 first_name: Vittoria (苏宁)
-middle_name: Zhang
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+middle_name:
+last_name: Zhang
+contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Vittoria Zhang's personal website / 苏宁的个人主页。
+footer_text: ""
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -136,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Vittoria's notes
+blog_description: Notes and reflections / 记录与思考
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -1,0 +1,17 @@
+# Replace these paragraphs when your biography is ready.
+biography:
+  english: Welcome to my personal website. I am Vittoria Zhang. This is a space for my notes, projects, and updates.
+  chinese: 欢迎来到我的个人主页，我是苏宁。这里将记录我的思考、项目与近况。
+
+# Add entries using label, period, details, translation, and optional url.
+cv_sections:
+  - title: Education / 教育背景
+    entries: []
+  - title: Experience / 工作经历
+    entries: []
+  - title: Publications / 论文发表
+    entries: []
+  - title: Projects / 项目经历
+    entries: []
+  - title: Research interests / 研究方向
+    entries: []
